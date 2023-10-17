@@ -27,6 +27,4 @@ Happy coding! 🚀
 1. Python 
 2. Machine Learning
 3. Data Science
-4. NumPy 
-5. Pandas 
-6. Scikit-learn
+4. Auotomation Techniques
